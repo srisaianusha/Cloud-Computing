@@ -1,0 +1,6 @@
+sudo yum update
+mkdir c:\temp\HelloAll
+cd c:\temp\HelloAll
+touch index.html
+nano index.html
+cat index.html
