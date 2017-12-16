@@ -1,2 +1,2 @@
 # Cloud-Computing
-This repository consists of files related to Cloud Compuitng
+This repository consists of files related to Cloud Computing
